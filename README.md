@@ -43,7 +43,9 @@ Front-end developer building fast, accessible web experiences with Angular and R
 ---
 
 ## 📫 Connect
-- Portfolio: [nikakvaraportfolio.netlify.app](http://nikakvaraportfolio.netlify.app/)  
+- Portfolio: [nikakvaraportfolio.netlify.app](http://nikakvaraportfolio.netlify.app/)
+- Email: nkvaratskhelia09@gmail.com
+- Phone: (+995) 592 09 55 33
 - Location: Tbilisi, Georgia  
 - Availability: Open to work
 
