@@ -12,8 +12,8 @@ Front-end developer building fast, accessible web experiences with Angular and R
 
 ## 🛠️ Tech & Tools
 - Frameworks / Libraries: Angular, React  
-- Languages: TypeScript, JavaScript, C#  
-- 3D / Visuals: three.js  
+- Languages: TypeScript, JavaScript, C#
+- 3D / Visuals: three.js, HTML, CSS, SCSS
 - Learning: backend fundamentals (APIs, Node.js/Express, databases)
 
 ---
