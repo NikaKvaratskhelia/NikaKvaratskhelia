@@ -1,19 +1,19 @@
 # Hi — I'm Nikoloz Kvaratskhelia 👋
 
-Front-end developer building fast, accessible web experiences with Angular and React. I use TypeScript for robust apps and explore 3D web with three.js. Currently expanding backend skills and actively looking for front‑end or full‑stack opportunities.
+Full-stack developer building fast, accessible web experiences with Angular and React. I use TypeScript for robust apps and explore 3D web with three.js. Currently expanding backend skills and actively looking for front‑end or full‑stack opportunities.
 
 ---
 
 ## 🔭 Currently
-- Learning backend development to complement front-end skills (focusing on APIs, auth, and databases)
+- Learning backend development withj ASP.NET to complement front-end skills (focusing on APIs, auth, and databases)
 - Open to work — available for frontend roles
 
 ---
 
 ## 🛠️ Tech & Tools
-- Frameworks / Libraries: Angular, React  
+- Frameworks / Libraries: Angular, React, Next  
 - Languages: TypeScript, JavaScript, C#
-- 3D / Visuals: three.js, HTML, CSS, SCSS
+- 3D / Visuals: three.js, HTML, CSS, SCSS, TailwindCSS
 - Learning: backend fundamentals (APIs, Node.js/Express, databases)
 
 ---
